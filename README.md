@@ -21,5 +21,5 @@ dla osób chcących zobaczyć jak to działa, oraz w jaki sposób powstaje kod c
 
 - [ ]    Logowanie/Rejestracja użytkownika
 - [ ]    Widok Logowania/Rejestracji użytkownika
-- [ ]    Głóny szablon stony 
+- [ ]    Główny szablon stony 
 - [ ]    Utworzenie indexu
