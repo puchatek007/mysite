@@ -1,4 +1,6 @@
 ## Internetowe Portfolio 
+![](https://img.shields.io/badge/Django-2.1-green.svg)
+![](https://img.shields.io/badge/Python-3.7-green.svg)
 
 ## Przeznaczenie
 
