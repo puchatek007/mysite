@@ -19,10 +19,31 @@ dla osób chcących zobaczyć jak to działa, oraz w jaki sposób powstaje kod c
 
 ### Do zrobienia 
 
-- [ ] 	Główny szablon stony 
+- [ ]   Utworzenie aplikacji dashboard
+- [ ] 	Główny szablonu dashboard
 - [ ]   Utworzenie indexu
 - [ ]   Napisanie testów dla widoku głównego 
-- [ ]   Logowanie/Rejestracja użytkownika
+
+- [ ]   Utworzenie aplikacji logowania/rejestracja
 - [ ]   Napisanie testów rejestracji i logowania 
+- [ ]   Stworzenie możliwości resetu hasła przez użytkownika 
+- [ ]   Napisanie testów resetu hasła
 - [ ]   Widok Logowania/Rejestracji użytkownika
+  - [ ]   Dodanie informacji o zalogowanym użytkowniku do ekranu głównego
 - [ ]   Napisanie testów widoku logowania i rejestracji 
+
+- [ ]   Utworzenie aplikacji Post
+- [ ]   Napisanie testów aplikacji Post
+- [ ]   Dodawanie posta
+  - [ ]   Powiązanie użytkownika z postem 
+- [ ]   Napisanie testów dodawania posata
+- [ ]   Widok wszytkich postów 
+- [ ]   Napisanie testów widoku postów 
+- [ ]   Widok konkretnego posta
+- [ ]   Napisanie testu dla widoku konkretnego posta
+
+- [ ]   Organizacja widoku głównego HTML
+
+- [ ]   Utworzenie aplikacji komentowania
+- [ ]   Napisanie testów aplikacji komentowania
+- [ ]   Dodanie widoku komentowania do aplikacji Post
