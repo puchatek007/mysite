@@ -19,10 +19,13 @@ dla osób chcących zobaczyć jak to działa, oraz w jaki sposób powstaje kod c
 
 ### Do zrobienia 
 
-- [ ]   Główny szablon stony 
-- [ ]   Utworzenie indexu
-- [ ]   Napisanie testów dla widoku głównego 
-- [ ]   Logowanie/Rejestracja użytkownika
+- [x] 	Główny szablon stony 
+- [x]   Utworzenie indexu
+- [x]   Napisanie testów dla widoku głównego 
+- [x]   Logowanie/Rejestracja użytkownika
+
 - [ ]   Napisanie testów rejestracji i logowania 
+
 - [ ]   Widok Logowania/Rejestracji użytkownika
+
 - [ ]   Napisanie testów widoku logowania i rejestracji 
