@@ -1,11 +1,11 @@
-# Internetowe Portfolio 
+# Aplikacja Blogowa 
 ![](https://img.shields.io/badge/Django-2.1-green.svg)
 ![](https://img.shields.io/badge/Python-3.7-green.svg)
 
 ## Przeznaczenie
 
-Repozytorium ma prezentować ogolny zarys kodu jaki zawiera strona z portfolio. Repozyutorium jest przeznaczone
-dla osób chcących zobaczyć jak to działa, oraz w jaki sposób powstaje kod cały serwis. 
+Repozytorium ma prezentować ogolny zarys kodu jaki zawiera strona z blogiem. Repozyutorium jest przeznaczone
+dla osób chcących zobaczyć jak to działa, oraz w jaki sposób powstaje moja interpretacja bloga.  
 
 ## Założenia 
 
