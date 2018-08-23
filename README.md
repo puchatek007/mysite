@@ -20,8 +20,8 @@ dla osób chcących zobaczyć jak to działa, oraz w jaki sposób powstaje moja 
 ### Do zrobienia 
 
 ###### Dashboard
-- [ ]   Utworzenie aplikacji dashboard
-- [ ] 	Główny szablonu dashboard
+- [x]   Utworzenie aplikacji dashboard
+- [x] 	Główny szablonu dashboard
 - [ ]   Utworzenie indexu
 - [ ]   Napisanie testów dla widoku głównego 
 ###### Rejestracja / Logowanie
